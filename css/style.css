@@ -1,6 +1,15 @@
 @media (min-width: 300px) {
 
     nav {
-	position:absolute;y
+	position:absolute;
     }
+}
+
+#welcome-section{
+    height: 100%;
+}
+
+nav {
+    position: fixed;
+    
 }
