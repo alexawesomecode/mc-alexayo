@@ -1,13 +1,14 @@
-@media (min-width: 300px) {
+@media (max-width: 28em) {
 
-    nav {
-	position:absolute;
+    h1 {
+	background-color: black;
     }
 }
 
-#welcome-section{
-    height: 100%;
-}
+
+#welcome-section {
+    display: flex;
+    height: 100vh;}
 
 nav {
     position: fixed;
